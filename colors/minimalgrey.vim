@@ -1,7 +1,8 @@
 " Name: Minimalgrey
 " Author: jonwalstedt (on Github)
 " URL: https://github.com/jonwalstedt/minimalgrey
-" (see this url for latest release & screenshots)
+" (see this url for latest release & screenshots
+" based on https://github.com/robertmeta/nofrils/)
 " License: OSI approved MIT license
 
 hi clear
